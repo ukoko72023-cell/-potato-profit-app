@@ -1,0 +1,9 @@
+{
+  "name": "အာလူးကြော်စာရင်းကိုင်",
+  "short_name": "အာလူးစာရင်း",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#f59e0b",
+  "lang": "my"
+}
